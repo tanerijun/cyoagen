@@ -26,6 +26,7 @@ func main() {
 	if err != nil {
 		log.Fatal(err)
 	}
+	defer f.Close()
 
 	story, err := cyoa.JSONStoryParser(f)
 	if err != nil {
