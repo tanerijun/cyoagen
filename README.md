@@ -1,6 +1,6 @@
 # CYOA-Generator
 
-A generator for [Create Your Own Adventure](https://en.wikipedia.org/wiki/Choose_Your_Own_Adventure) books.
+A generator for [Choose Your Own Adventure](https://en.wikipedia.org/wiki/Choose_Your_Own_Adventure) books.
 
 # Usage
 
